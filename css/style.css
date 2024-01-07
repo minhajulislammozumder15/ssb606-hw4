@@ -1,0 +1,14 @@
+h3{
+	color: skyblue;
+	background-color: black;
+}
+table{
+	background-color: green;
+    border-spacing: 3px;
+    border-style: dotted;
+    box-align: center;
+    padding: 8px;
+}
+tr {
+	border: 3px;
+}
